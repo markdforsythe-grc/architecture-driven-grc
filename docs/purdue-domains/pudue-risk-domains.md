@@ -1,4 +1,5 @@
 # Purdue Risk Domains
+> See **Figure 01 — Authoritative Purdue Risk Domain Model** for the canonical visual reference.
 
 This framework aligns with the Purdue Enterprise Reference Architecture, treating each level as a distinct risk domain.
 
