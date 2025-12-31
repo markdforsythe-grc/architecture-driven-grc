@@ -13,6 +13,7 @@ This framework aligns with the Purdue Enterprise Reference Architecture, treatin
 
 - **Level 3.5 – Operations DMZ**  
   Mandatory trust mediation domain between IT and OT
+> See **Figure 03 — Role of Level 3.5 in Risk Mediation** for the authoritative visual reference.
 
 - **Level 3 – Site Operations**  
   Local production and supervisory systems
