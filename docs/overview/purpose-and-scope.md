@@ -1,4 +1,5 @@
 1. Purpose and Scope
+________________________________________
 1.1 Purpose
 The purpose of the Architecture-Driven Governance, Risk, and Compliance (GRC) Framework is to establish a deterministic, architecture-centric method for identifying, evaluating, and managing cybersecurity risk across converged Information Technology (IT), Operational Technology (OT), and industrial control system (ICS) environments.
 This framework exists to address a fundamental limitation of traditional GRC approaches:
