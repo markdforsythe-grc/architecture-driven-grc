@@ -6,10 +6,7 @@ These figures define behavior, not illustration.
 
 ## Canonical Figures
 
-1. Authoritative Purdue Risk Domain Model
-2. Risk Flow vs Control Flow Model
-3. Role of Level 3.5 in Risk Mediation
-4. Archetype Catalog: Primary vs Supporting
-5. Relationship Between Archetypes and Risk Patterns
+1. Figure 01 — Authoritative Purdue Risk Domain Model
+2. Figure 02 — Risk Flow vs Control Flow
 
 Derived visuals must not contradict these references.
