@@ -1,4 +1,5 @@
 # Risk Flow vs Control Flow
+> See **Figure 02 — Risk Flow vs Control Flow** for the authoritative visual reference.
 
 Risk and control do not behave symmetrically in complex systems.
 
